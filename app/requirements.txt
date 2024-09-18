@@ -1,0 +1,8 @@
+asgiref==3.8.1
+python-dotenv==1.0.1
+sqlparse==0.5.1
+tzdata==2024.1
+PyAudio==0.2.14
+textblob==0.18.0.post0
+SpeechRecognition==3.10.4
+pyttsx3==2.90
